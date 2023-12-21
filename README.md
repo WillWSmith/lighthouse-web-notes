@@ -12,11 +12,11 @@ This repository contains all of the notes taken by [Will](https://github.com/Wil
 
 * [Week 3](/Week_3)
   * [Day 1 - Test-driven Devolopment with Mocha & Chai](https://github.com/mendahu/lighthouse-lectures/tree/flex/2023-nov-13-day/test_driven_development_with_mocha_and_chai)
-  * Day 2 - Mock EXAM (No notes)
+  * Day 2 - **Mock EXAM** (No notes)
 
 * [Week 4](/Week_4)
   * [Day 1 - Asynchronous Control Flow](https://github.com/mendahu/lighthouse-lectures/tree/flex/2023-nov-13-day/asynchronous_control_flow)
-  * Day 2 - EXAM (No notes)
+  * Day 2 - **EXAM** (No notes)
 
 * [Week 5](/Week_5)
   * [Day 1 - Networking with TCP & HTTP](https://github.com/mendahu/lighthouse-lectures/tree/flex/2023-nov-13-day/networking_with_tcp_and_http)
@@ -25,4 +25,4 @@ This repository contains all of the notes taken by [Will](https://github.com/Wil
 * [Week 6](/Week_6)
   * [Day 1 - Web Servers 101](/Week_6/Day_1/)
   * [Breakout - Tech Interviews](/Week_6/Breakout/)
-  * [Day 2]()
+  * [Day 2 - CRUD with Express]()
