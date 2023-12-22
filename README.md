@@ -25,4 +25,4 @@ This repository contains all of the notes taken by [Will](https://github.com/Wil
 * [Week 6](/Week_6)
   * [Day 1 - Web Servers 101](/Week_6/Day_1/)
   * [Breakout - Tech Interviews](/Week_6/Breakout/)
-  * [Day 2 - CRUD with Express]()
+  * [Day 2 - CRUD with Express](https://github.com/Masavi/lhl-nov13-cohort/tree/main/m03/w06/crud-with-express)
