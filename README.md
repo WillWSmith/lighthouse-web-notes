@@ -30,3 +30,6 @@ This repository contains all of the notes taken by [Will](https://github.com/Wil
 * Week 7
   * [Day 1 - HTTP Cookies & User Authentication](https://github.com/mendahu/lighthouse-lectures/tree/flex/2023-nov-13-day/http_cookies_authentication)
   * [Day 2 - Security & Real World HTTP Servers](https://github.com/Masavi/lhl-nov13-cohort/tree/main/m03/w07/security-and-real-servers)
+
+* Week 8
+  * [Day 1 - Intro to CSS](https://github.com/mendahu/lighthouse-lectures/tree/flex/2023-nov-13-day/intro_to_css)
