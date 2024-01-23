@@ -36,6 +36,7 @@ This repository contains all of the notes taken by [Will](https://github.com/Wil
   * [Day 2 - Client Side JavaScript & jQuery](https://github.com/Masavi/lhl-nov13-cohort/tree/main/m04/w08/client-side-js-and-jquery)
 
 * Week 9
+  * [Day 1 - AJAX](https://github.com/mendahu/lighthouse-lectures/tree/flex/2023-nov-13-day/ajax)
 
 * Week 10
 
